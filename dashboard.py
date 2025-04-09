@@ -128,4 +128,4 @@ if export:
 
 # Footer
 st.markdown("---")
-st.markdown("Built by your financial assistant. Auto-refreshes every 15 minutes with live AMFI NAVs.")
+st.markdown("Built by your financial assistant Sumit Zanje, Ph.D. Auto-refreshes every 15 minutes with live AMFI NAVs.")
